@@ -840,11 +840,11 @@
   <filter name="PEQ_1_5" addr="8300">
     <freq>33.0</freq>
     <q>4.5</q>
-    <boost>-2.8</boost>
+    <boost>-2.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999223252548511,-1.999431585432893,0.9995139237915047,1.999431585432893,-0.9994362490463559,</dec>
-    <hex>0x3f7ffae9,0xbfffed60,0x3f7fe025,0x3fffed60,0xbf7fdb0e,</hex>
+    <dec>0.9999251219417831,-1.9994348204072467,0.9995143620864722,1.9994348204072467,-0.999439484028255,</dec>
+    <hex>0x3f7ffb18,0xbfffed7b,0x3f7fe02c,0x3fffed7b,0xbf7fdb44,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>51.0</freq>
@@ -930,11 +930,11 @@
   <filter name="PEQ_2_5" addr="8350">
     <freq>33.0</freq>
     <q>4.5</q>
-    <boost>-2.8</boost>
+    <boost>-2.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999223252548511,-1.999431585432893,0.9995139237915047,1.999431585432893,-0.9994362490463559,</dec>
-    <hex>0x3f7ffae9,0xbfffed60,0x3f7fe025,0x3fffed60,0xbf7fdb0e,</hex>
+    <dec>0.9999251219417831,-1.9994348204072467,0.9995143620864722,1.9994348204072467,-0.999439484028255,</dec>
+    <hex>0x3f7ffb18,0xbfffed7b,0x3f7fe02c,0x3fffed7b,0xbf7fdb44,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>51.0</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Silo</beq_title><beq_alt_title /><beq_sortTitle>silo</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/KM7A4vX.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/q0Jfu5b.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>Silo</beq_title><beq_alt_title /><beq_sortTitle>silo</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/oLfuI3Q.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/9X0vSPn.jpg</beq_pvaURL><beq_edition />
     <beq_season id="196076">
         <number>1</number>
         <poster>/zBx1X06G1OlndbXTCZI13FECNz2.jpg</poster>
-        <episodes count="10">1,2</episodes>
+        <episodes count="10">1,2,4</episodes>
     </beq_season>
-<beq_note>Dialnorm Compensation: E01 +4dB; E02 +5dB</beq_note><beq_warning /><beq_gain>+6.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>In a ruined and toxic future, a community exists in a giant underground silo that plunges hundreds of stories deep. There, men and women live in a society full of regulations they believe are meant to protect them.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs /><beq_theMovieDB>125988</beq_theMovieDB><beq_poster>/qcUzKCQX79LxbRLrk6Ssw2b5mjD.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_note>Dialnorm Compensation: E01 +4dB; E02 +5dB; E04 +4dB</beq_note><beq_warning /><beq_gain>+6.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>In a ruined and toxic future, a community exists in a giant underground silo that plunges hundreds of stories deep. There, men and women live in a society full of regulations they believe are meant to protect them.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62562120</beq_avs><beq_theMovieDB>125988</beq_theMovieDB><beq_poster>/1NxaSn4ver4jIvLeD7YF8cTlZjB.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
