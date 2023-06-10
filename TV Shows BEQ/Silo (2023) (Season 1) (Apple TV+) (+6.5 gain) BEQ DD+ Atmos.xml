@@ -804,38 +804,38 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>33.0</freq>
@@ -894,38 +894,38 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>25.0</freq>
     <q>0.9</q>
-    <boost>4.2</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.00022046126327,-1.998387504153001,0.9981704496969724,1.998388157246463,-0.9983902578667804,</dec>
-    <hex>0x3f800739,0xbfffcb29,0x3f7f8819,0x3fffcb2f,0xbf7f9681,</hex>
+    <dec>1.0002151869385427,-1.9983828717390253,0.998171072045034,1.9983835089900897,-0.9983856217325124,</dec>
+    <hex>0x3f80070d,0xbfffcb03,0x3f7f8824,0x3fffcb08,0xbf7f9633,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>33.0</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Silo</beq_title><beq_alt_title /><beq_sortTitle>silo</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/SZU3985.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/pTxPkF0.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>Silo</beq_title><beq_alt_title /><beq_sortTitle>silo</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/rwbR6S7.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/VKU48QR.jpg</beq_pvaURL><beq_edition />
     <beq_season id="196076">
         <number>1</number>
         <poster>/zBx1X06G1OlndbXTCZI13FECNz2.jpg</poster>
-        <episodes count="10">1,2,4,5,6</episodes>
+        <episodes count="10">1,2,4,5,6,7</episodes>
     </beq_season>
-<beq_note>Dialnorm Compensation: E01 +4dB; E02 +5dB; E04 +4dB; E05 +3dB; E06 +4dB</beq_note><beq_warning /><beq_gain>+6.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>In a ruined and toxic future, a community exists in a giant underground silo that plunges hundreds of stories deep. There, men and women live in a society full of regulations they believe are meant to protect them.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62562120</beq_avs><beq_theMovieDB>125988</beq_theMovieDB><beq_poster>/1NxaSn4ver4jIvLeD7YF8cTlZjB.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_note>Dialnorm Compensation: E01 +4dB; E02 +5dB; E04 +4dB; E05 +3dB; E06 +4dB; E07 +4dB</beq_note><beq_warning /><beq_gain>+7.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>In a ruined and toxic future, a community exists in a giant underground silo that plunges hundreds of stories deep. There, men and women live in a society full of regulations they believe are meant to protect them.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62562120</beq_avs><beq_theMovieDB>125988</beq_theMovieDB><beq_poster>/zBx1X06G1OlndbXTCZI13FECNz2.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
