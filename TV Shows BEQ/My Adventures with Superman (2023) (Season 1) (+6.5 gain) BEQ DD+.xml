@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>1.0</q>
-    <boost>3.8</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000717533047327,-1.999413043620662,0.9993418232701242,1.9994131380456948,-0.9994134821498244,</dec>
-    <hex>0x3f80025a,0xbfffecc4,0x3f7fd4de,0x3fffecc5,0xbf7fd990,</hex>
+    <dec>1.0000395976047562,-1.9993836478694578,0.9993445335276446,1.9993836997632872,-0.9993840792385709,</dec>
+    <hex>0x3f80014c,0xbfffebce,0x3f7fd50b,0x3fffebce,0xbf7fd7a3,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>23.0</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>1.0</q>
-    <boost>3.8</boost>
+    <boost>2.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000717533047327,-1.999413043620662,0.9993418232701242,1.9994131380456948,-0.9994134821498244,</dec>
-    <hex>0x3f80025a,0xbfffecc4,0x3f7fd4de,0x3fffecc5,0xbf7fd990,</hex>
+    <dec>1.0000395976047562,-1.9993836478694578,0.9993445335276446,1.9993836997632872,-0.9993840792385709,</dec>
+    <hex>0x3f80014c,0xbfffebce,0x3f7fd50b,0x3fffebce,0xbf7fd7a3,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>23.0</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>My Adventures with Superman</beq_title><beq_alt_title /><beq_sortTitle>my adventures with superman</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/nOVCjZA.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/pzHF0De.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>My Adventures with Superman</beq_title><beq_alt_title /><beq_sortTitle>my adventures with superman</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/7XrjKov.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/Ix28OBf.jpg</beq_pvaURL><beq_edition />
 	<beq_season id="195948">
 	   <number>1</number>
 	   <poster>/tu9SKGQGUZVsh5DGfB3XSymH8P2.jpg</poster>
 	   <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
 	</beq_season>
-<beq_note>Dialnorm Compensation: E01 +2dB, E02 +3dB, E03 +2dB</beq_note><beq_warning /><beq_gain>+6.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62681992</beq_avs><beq_theMovieDB>125928</beq_theMovieDB><beq_poster>/tu9SKGQGUZVsh5DGfB3XSymH8P2.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_note>Dialnorm Compensation: E01 +2dB, E02 +3dB, E03 +2dB; E04 0dB</beq_note><beq_warning /><beq_gain>+6.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62681992</beq_avs><beq_theMovieDB>125928</beq_theMovieDB><beq_poster>/tu9SKGQGUZVsh5DGfB3XSymH8P2.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
