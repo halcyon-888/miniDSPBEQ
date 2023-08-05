@@ -813,56 +813,56 @@
   <filter name="PEQ_1_2" addr="8285">
     <freq>23.0</freq>
     <q>0.9</q>
-    <boost>4.7</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002271001583114,-1.9985377400473738,0.9983136078336433,1.998538360194619,-0.9985400878447098,</dec>
-    <hex>0x3f800771,0xbfffd016,0x3f7f917b,0x3fffd01b,0xbf7fa053,</hex>
+    <dec>1.0001979613252712,-1.998512348264446,0.9983172540881456,1.9985128876685856,-0.9985146760092772,</dec>
+    <hex>0x3f80067d,0xbfffcf41,0x3f7f91b8,0x3fffcf45,0xbf7f9ea8,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>23.0</freq>
     <q>0.9</q>
-    <boost>4.7</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002271001583114,-1.9985377400473738,0.9983136078336433,1.998538360194619,-0.9985400878447098,</dec>
-    <hex>0x3f800771,0xbfffd016,0x3f7f917b,0x3fffd01b,0xbf7fa053,</hex>
+    <dec>1.0001979613252712,-1.998512348264446,0.9983172540881456,1.9985128876685856,-0.9985146760092772,</dec>
+    <hex>0x3f80067d,0xbfffcf41,0x3f7f91b8,0x3fffcf45,0xbf7f9ea8,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>23.0</freq>
     <q>0.9</q>
-    <boost>4.7</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002271001583114,-1.9985377400473738,0.9983136078336433,1.998538360194619,-0.9985400878447098,</dec>
-    <hex>0x3f800771,0xbfffd016,0x3f7f917b,0x3fffd01b,0xbf7fa053,</hex>
+    <dec>1.0001979613252712,-1.998512348264446,0.9983172540881456,1.9985128876685856,-0.9985146760092772,</dec>
+    <hex>0x3f80067d,0xbfffcf41,0x3f7f91b8,0x3fffcf45,0xbf7f9ea8,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>31.0</freq>
-    <q>4.0</q>
-    <boost>-1.6</boost>
+    <freq>28.0</freq>
+    <q>3.0</q>
+    <boost>-2.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999532287675091,-1.9994398659714756,0.9994907526769461,1.9994398659714756,-0.9994439814444551,</dec>
-    <hex>0x3f7ffcef,0xbfffeda5,0x3f7fdea0,0x3fffeda5,0xbf7fdb90,</hex>
+    <dec>0.9999224586633062,-1.9993035447692298,0.9993844433481845,1.9993035447692298,-0.9993069020114907,</dec>
+    <hex>0x3f7ffaeb,0xbfffe92e,0x3f7fd7a9,0x3fffe92e,0xbf7fd294,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>50.0</freq>
-    <q>1.0</q>
-    <boost>0.7</boost>
+    <freq>43.0</freq>
+    <q>1.8</q>
+    <boost>0.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001316943407803,-1.9968509975122408,0.9967299955636776,1.9968509975122408,-0.9968616899044578,</dec>
-    <hex>0x3f800451,0xbfff98d0,0x3f7f29b2,0x3fff98d0,0xbf7f3254,</hex>
+    <dec>1.0000539721152737,-1.9984827834519854,0.9984367258831317,1.9984827834519854,-0.9984906979984055,</dec>
+    <hex>0x3f8001c5,0xbfffce49,0x3f7f998d,0x3fffce49,0xbf7f9d16,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>69.0</freq>
+    <q>1.0</q>
+    <boost>0.3</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000778201393181,-1.995550775152881,0.9954933044285988,1.995550775152881,-0.9955711245679171,</dec>
+    <hex>0x3f80028d,0xbfff6e35,0x3f7ed8a6,0x3fff6e35,0xbf7eddc0,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -903,56 +903,56 @@
   <filter name="PEQ_2_2" addr="8335">
     <freq>23.0</freq>
     <q>0.9</q>
-    <boost>4.7</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002271001583114,-1.9985377400473738,0.9983136078336433,1.998538360194619,-0.9985400878447098,</dec>
-    <hex>0x3f800771,0xbfffd016,0x3f7f917b,0x3fffd01b,0xbf7fa053,</hex>
+    <dec>1.0001979613252712,-1.998512348264446,0.9983172540881456,1.9985128876685856,-0.9985146760092772,</dec>
+    <hex>0x3f80067d,0xbfffcf41,0x3f7f91b8,0x3fffcf45,0xbf7f9ea8,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>23.0</freq>
     <q>0.9</q>
-    <boost>4.7</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002271001583114,-1.9985377400473738,0.9983136078336433,1.998538360194619,-0.9985400878447098,</dec>
-    <hex>0x3f800771,0xbfffd016,0x3f7f917b,0x3fffd01b,0xbf7fa053,</hex>
+    <dec>1.0001979613252712,-1.998512348264446,0.9983172540881456,1.9985128876685856,-0.9985146760092772,</dec>
+    <hex>0x3f80067d,0xbfffcf41,0x3f7f91b8,0x3fffcf45,0xbf7f9ea8,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>23.0</freq>
     <q>0.9</q>
-    <boost>4.7</boost>
+    <boost>4.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002271001583114,-1.9985377400473738,0.9983136078336433,1.998538360194619,-0.9985400878447098,</dec>
-    <hex>0x3f800771,0xbfffd016,0x3f7f917b,0x3fffd01b,0xbf7fa053,</hex>
+    <dec>1.0001979613252712,-1.998512348264446,0.9983172540881456,1.9985128876685856,-0.9985146760092772,</dec>
+    <hex>0x3f80067d,0xbfffcf41,0x3f7f91b8,0x3fffcf45,0xbf7f9ea8,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>31.0</freq>
-    <q>4.0</q>
-    <boost>-1.6</boost>
+    <freq>28.0</freq>
+    <q>3.0</q>
+    <boost>-2.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999532287675091,-1.9994398659714756,0.9994907526769461,1.9994398659714756,-0.9994439814444551,</dec>
-    <hex>0x3f7ffcef,0xbfffeda5,0x3f7fdea0,0x3fffeda5,0xbf7fdb90,</hex>
+    <dec>0.9999224586633062,-1.9993035447692298,0.9993844433481845,1.9993035447692298,-0.9993069020114907,</dec>
+    <hex>0x3f7ffaeb,0xbfffe92e,0x3f7fd7a9,0x3fffe92e,0xbf7fd294,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>50.0</freq>
-    <q>1.0</q>
-    <boost>0.7</boost>
+    <freq>43.0</freq>
+    <q>1.8</q>
+    <boost>0.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001316943407803,-1.9968509975122408,0.9967299955636776,1.9968509975122408,-0.9968616899044578,</dec>
-    <hex>0x3f800451,0xbfff98d0,0x3f7f29b2,0x3fff98d0,0xbf7f3254,</hex>
+    <dec>1.0000539721152737,-1.9984827834519854,0.9984367258831317,1.9984827834519854,-0.9984906979984055,</dec>
+    <hex>0x3f8001c5,0xbfffce49,0x3f7f998d,0x3fffce49,0xbf7f9d16,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>69.0</freq>
+    <q>1.0</q>
+    <boost>0.3</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>1.0000778201393181,-1.995550775152881,0.9954933044285988,1.995550775152881,-0.9955711245679171,</dec>
+    <hex>0x3f80028d,0xbfff6e35,0x3f7ed8a6,0x3fff6e35,0xbf7eddc0,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>My Adventures with Superman</beq_title><beq_alt_title /><beq_sortTitle>my adventures with superman</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/7XrjKov.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/Ix28OBf.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>My Adventures with Superman</beq_title><beq_alt_title /><beq_sortTitle>my adventures with superman</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://i.imgur.com/ybZokSN.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/tjcWszi.png</beq_pvaURL><beq_edition />
 	<beq_season id="195948">
 	   <number>1</number>
 	   <poster>/tu9SKGQGUZVsh5DGfB3XSymH8P2.jpg</poster>
-	   <episodes count="10">1,2,3,4,5,6,7,8,9,10</episodes>
+	   <episodes count="10">1,2,3,4,5,6</episodes>
 	</beq_season>
-<beq_note>Dialnorm Compensation: E01 +2dB, E02 +3dB, E03 +2dB; E04 0dB</beq_note><beq_warning /><beq_gain>+6.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62681992</beq_avs><beq_theMovieDB>125928</beq_theMovieDB><beq_poster>/tu9SKGQGUZVsh5DGfB3XSymH8P2.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_note>Dialnorm Compensation: E01 +2dB, E02 +3dB, E03 +2dB, E04 0dB, E05 4dB, E06 0dB</beq_note><beq_warning /><beq_gain>+6.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62681992</beq_avs><beq_theMovieDB>125928</beq_theMovieDB><beq_poster>/tMslOS7noUUjc8BLvePk2QsV75v.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
