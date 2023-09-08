@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>14.0</freq>
+    <freq>10.0</freq>
     <q>1.0</q>
-    <boost>4.6</boost>
+    <boost>-2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001217349362905,-1.9991967838881153,0.9990761426539861,1.9991970087294064,-0.9991976527489854,</dec>
-    <hex>0x3f8003fd,0xbfffe5ae,0x3f7fc374,0x3fffe5b0,0xbf7fcb6b,</hex>
+    <dec>0.9999622915894091,-1.9993065292909447,0.999344619352823,1.9993064798813363,-0.9993069603518406,</dec>
+    <hex>0x3f7ffd87,0xbfffe947,0x3f7fd50d,0x3fffe946,0xbf7fd295,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>32.0</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>14.0</freq>
+    <freq>10.0</freq>
     <q>1.0</q>
-    <boost>4.6</boost>
+    <boost>-2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001217349362905,-1.9991967838881153,0.9990761426539861,1.9991970087294064,-0.9991976527489854,</dec>
-    <hex>0x3f8003fd,0xbfffe5ae,0x3f7fc374,0x3fffe5b0,0xbf7fcb6b,</hex>
+    <dec>0.9999622915894091,-1.9993065292909447,0.999344619352823,1.9993064798813363,-0.9993069603518406,</dec>
+    <hex>0x3f7ffd87,0xbfffe947,0x3f7fd50d,0x3fffe946,0xbf7fd295,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>18.0</freq>
     <q>1.0</q>
-    <boost>5.0</boost>
+    <boost>5.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001702432866952,-1.9989788850295045,0.998810491611037,1.998979289834943,-0.9989803300922937,</dec>
-    <hex>0x3f800594,0xbfffde8a,0x3f7fb20b,0x3fffde8e,0xbf7fbd2d,</hex>
+    <dec>1.0001736726760144,-1.998981811808195,0.9988099996825435,1.9989822249394429,-0.9989832592273103,</dec>
+    <hex>0x3f8005b1,0xbfffdea3,0x3f7fb203,0x3fffdea6,0xbf7fbd5e,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>32.0</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Invasion</beq_title><beq_alt_title /><beq_sortTitle>invasion</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://i.imgur.com/w0U64hy.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/UooA9Go.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>Invasion</beq_title><beq_alt_title /><beq_sortTitle>invasion</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://i.imgur.com/526mq0t.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/RiqGrQh.jpg</beq_pvaURL><beq_edition />
 	<beq_season id="347066">
 	   <number>2</number>
 	   <poster>/wWFs3pl9gWHYvDElQVB4CB809m9.jpg</poster>
-	   <episodes count="10">2</episodes>
+	   <episodes count="10">2,3</episodes>
 	</beq_season>
-<beq_note>+3dB Dialnorm Compensation</beq_note><beq_warning /><beq_gain>+8.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>Earth is visited by an alien species that threatens humanity’s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs /><beq_theMovieDB>127235</beq_theMovieDB><beq_poster>/wWFs3pl9gWHYvDElQVB4CB809m9.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_note>Dialnorm Compensation: E02-E03 +3dB</beq_note><beq_warning /><beq_gain>+8.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Apple TV+</beq_source><beq_overview>Earth is visited by an alien species that threatens humanity’s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs /><beq_theMovieDB>127235</beq_theMovieDB><beq_poster>/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
