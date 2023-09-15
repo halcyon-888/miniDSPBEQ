@@ -802,33 +802,42 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>13.0</freq>
-    <q>1.0</q>
-    <boost>5.7</boost>
-    <type>SL</type>
+    <freq>10.0</freq>
+    <q>3.0</q>
+    <boost>-1.2</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001402867126323,-1.9992773899687237,0.9991381079810612,1.9992776317055319,-0.999278152956885,</dec>
-    <hex>0x3f800499,0xbfffe852,0x3f7fc784,0x3fffe854,0xbf7fd0b1,</hex>
+    <dec>0.9999849193914694,-1.9997658297709173,0.9997813386976155,1.9997658297709173,-0.9997662580890848,</dec>
+    <hex>0x3f7fff03,0xbffff854,0x3f7ff1ab,0x3ffff854,0xbf7ff0ae,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>13.0</freq>
-    <q>1.0</q>
-    <boost>5.7</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001402867126323,-1.9992773899687237,0.9991381079810612,1.9992776317055319,-0.999278152956885,</dec>
-    <hex>0x3f800499,0xbfffe852,0x3f7fc784,0x3fffe854,0xbf7fd0b1,</hex>
+    <dec>1.0000565852248944,-1.999326946217332,0.9992708612241032,1.999327013042146,-0.9993273796241829,</dec>
+    <hex>0x3f8001db,0xbfffe9f2,0x3f7fd037,0x3fffe9f3,0xbf7fd3eb,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>26.0</freq>
-    <q>0.7</q>
-    <boost>5.4</boost>
+    <freq>13.0</freq>
+    <q>1.0</q>
+    <boost>5.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003794215642001,-1.9979180732561346,0.9975425991023715,1.9979189870188943,-0.9979211069038124,</dec>
-    <hex>0x3f800c6f,0xbfffbbc8,0x3f7f5ef4,0x3fffbbcf,0xbf7f77c2,</hex>
+    <dec>1.0001278838353127,-1.9992669371262113,0.999140029504652,1.9992671569984084,-0.9992676934677676,</dec>
+    <hex>0x3f800431,0xbfffe7fb,0x3f7fc7a4,0x3fffe7fc,0xbf7fd002,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
+    <freq>13.0</freq>
+    <q>1.0</q>
+    <boost>5.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001278838353127,-1.9992669371262113,0.999140029504652,1.9992671569984084,-0.9992676934677676,</dec>
+    <hex>0x3f800431,0xbfffe7fb,0x3f7fc7a4,0x3fffe7fc,0xbf7fd002,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
     <freq>26.0</freq>
     <q>0.7</q>
     <boost>5.4</boost>
@@ -837,23 +846,14 @@
     <dec>1.0003794215642001,-1.9979180732561346,0.9975425991023715,1.9979189870188943,-0.9979211069038124,</dec>
     <hex>0x3f800c6f,0xbfffbbc8,0x3f7f5ef4,0x3fffbbcf,0xbf7f77c2,</hex>
   </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
-  </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
+    <freq>26.0</freq>
     <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <boost>5.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003794215642001,-1.9979180732561346,0.9975425991023715,1.9979189870188943,-0.9979211069038124,</dec>
+    <hex>0x3f800c6f,0xbfffbbc8,0x3f7f5ef4,0x3fffbbcf,0xbf7f77c2,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,33 +892,42 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>13.0</freq>
-    <q>1.0</q>
-    <boost>5.7</boost>
-    <type>SL</type>
+    <freq>10.0</freq>
+    <q>3.0</q>
+    <boost>-1.2</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0001402867126323,-1.9992773899687237,0.9991381079810612,1.9992776317055319,-0.999278152956885,</dec>
-    <hex>0x3f800499,0xbfffe852,0x3f7fc784,0x3fffe854,0xbf7fd0b1,</hex>
+    <dec>0.9999849193914694,-1.9997658297709173,0.9997813386976155,1.9997658297709173,-0.9997662580890848,</dec>
+    <hex>0x3f7fff03,0xbffff854,0x3f7ff1ab,0x3ffff854,0xbf7ff0ae,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>13.0</freq>
-    <q>1.0</q>
-    <boost>5.7</boost>
+    <freq>10.0</freq>
+    <q>0.9</q>
+    <boost>2.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001402867126323,-1.9992773899687237,0.9991381079810612,1.9992776317055319,-0.999278152956885,</dec>
-    <hex>0x3f800499,0xbfffe852,0x3f7fc784,0x3fffe854,0xbf7fd0b1,</hex>
+    <dec>1.0000565852248944,-1.999326946217332,0.9992708612241032,1.999327013042146,-0.9993273796241829,</dec>
+    <hex>0x3f8001db,0xbfffe9f2,0x3f7fd037,0x3fffe9f3,0xbf7fd3eb,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>26.0</freq>
-    <q>0.7</q>
-    <boost>5.4</boost>
+    <freq>13.0</freq>
+    <q>1.0</q>
+    <boost>5.2</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003794215642001,-1.9979180732561346,0.9975425991023715,1.9979189870188943,-0.9979211069038124,</dec>
-    <hex>0x3f800c6f,0xbfffbbc8,0x3f7f5ef4,0x3fffbbcf,0xbf7f77c2,</hex>
+    <dec>1.0001278838353127,-1.9992669371262113,0.999140029504652,1.9992671569984084,-0.9992676934677676,</dec>
+    <hex>0x3f800431,0xbfffe7fb,0x3f7fc7a4,0x3fffe7fc,0xbf7fd002,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
+    <freq>13.0</freq>
+    <q>1.0</q>
+    <boost>5.2</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0001278838353127,-1.9992669371262113,0.999140029504652,1.9992671569984084,-0.9992676934677676,</dec>
+    <hex>0x3f800431,0xbfffe7fb,0x3f7fc7a4,0x3fffe7fc,0xbf7fd002,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
     <freq>26.0</freq>
     <q>0.7</q>
     <boost>5.4</boost>
@@ -927,23 +936,14 @@
     <dec>1.0003794215642001,-1.9979180732561346,0.9975425991023715,1.9979189870188943,-0.9979211069038124,</dec>
     <hex>0x3f800c6f,0xbfffbbc8,0x3f7f5ef4,0x3fffbbcf,0xbf7f77c2,</hex>
   </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
-  </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
+    <freq>26.0</freq>
     <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <boost>5.4</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003794215642001,-1.9979180732561346,0.9975425991023715,1.9979189870188943,-0.9979211069038124,</dec>
+    <hex>0x3f800c6f,0xbfffbbc8,0x3f7f5ef4,0x3fffbbcf,0xbf7f77c2,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Wheel of Time</beq_title><beq_alt_title /><beq_sortTitle>wheel of time</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://i.imgur.com/BzLYLp7.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/3YOxNW9.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>The Wheel of Time</beq_title><beq_alt_title /><beq_sortTitle>wheel of time</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://i.imgur.com/RHGOx7r.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/B0NVUJA.jpg</beq_pvaURL><beq_edition />
     <beq_season id="342276">
         <number>2</number>
         <poster>/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg</poster>
-        <episodes count="8">1,2,3,4</episodes>
+        <episodes count="8">1,2,3,4,5</episodes>
     </beq_season>
-<beq_note>Dialnorm Compensation: E1-E2 +4dB, E3 +5dB, E4 +4dB</beq_note><beq_warning /><beq_gain>+4.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Amazon</beq_source><beq_overview>Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788845</beq_avs><beq_theMovieDB>71914</beq_theMovieDB><beq_poster>/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_note>Dialnorm Compensation: E1-E2 +4dB, E3 +5dB, E4-E5 +4dB</beq_note><beq_warning /><beq_gain>+4.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Amazon</beq_source><beq_overview>Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62788845</beq_avs><beq_theMovieDB>71914</beq_theMovieDB><beq_poster>/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
