@@ -802,76 +802,76 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>11.0</freq>
-    <q>1.1</q>
-    <boost>5.1</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000096469009738,-1.999434475640129,0.9993387016225976,1.9994346299616692,-0.9994350163107953,</dec>
-    <hex>0x3f800329,0xbfffed78,0x3f7fd4a9,0x3fffed79,0xbf7fdaf9,</hex>
+    <dec>1.0001057206478186,-1.9990816664192994,0.9989769782334317,1.9990818415798517,-0.9990825237206977,</dec>
+    <hex>0x3f800377,0xbfffe1e8,0x3f7fbcf5,0x3fffe1ea,0xbf7fc3df,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>11.0</freq>
-    <q>1.1</q>
-    <boost>5.1</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000096469009738,-1.999434475640129,0.9993387016225976,1.9994346299616692,-0.9994350163107953,</dec>
-    <hex>0x3f800329,0xbfffed78,0x3f7fd4a9,0x3fffed79,0xbf7fdaf9,</hex>
+    <dec>1.0001057206478186,-1.9990816664192994,0.9989769782334317,1.9990818415798517,-0.9990825237206977,</dec>
+    <hex>0x3f800377,0xbfffe1e8,0x3f7fbcf5,0x3fffe1ea,0xbf7fc3df,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>11.0</freq>
-    <q>1.1</q>
-    <boost>5.1</boost>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000096469009738,-1.999434475640129,0.9993387016225976,1.9994346299616692,-0.9994350163107953,</dec>
-    <hex>0x3f800329,0xbfffed78,0x3f7fd4a9,0x3fffed79,0xbf7fdaf9,</hex>
+    <dec>1.000283664853671,-1.9982985596467617,0.9980181823302441,1.9982992790563388,-0.9983011277743382,</dec>
+    <hex>0x3f80094c,0xbfffc83f,0x3f7f7e1f,0x3fffc845,0xbf7f90aa,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>19.0</freq>
-    <q>2.0</q>
-    <boost>1.1</boost>
-    <type>PK</type>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000393861908081,-1.9994150016627974,0.9993771614300321,1.9994150016627974,-0.9994165476208403,</dec>
-    <hex>0x3f80014a,0xbfffecd5,0x3f7fd72f,0x3fffecd5,0xbf7fd9c3,</hex>
+    <dec>1.000283664853671,-1.9982985596467617,0.9980181823302441,1.9982992790563388,-0.9983011277743382,</dec>
+    <hex>0x3f80094c,0xbfffc83f,0x3f7f7e1f,0x3fffc845,0xbf7f90aa,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>5.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002745224603822,-1.9986144720879682,0.9983423406116303,1.998615054458297,-0.9986162807016833,</dec>
-    <hex>0x3f8008ff,0xbfffd299,0x3f7f935d,0x3fffd29e,0xbf7fa551,</hex>
+    <dec>1.000283664853671,-1.9982985596467617,0.9980181823302441,1.9982992790563388,-0.9983011277743382,</dec>
+    <hex>0x3f80094c,0xbfffc83f,0x3f7f7e1f,0x3fffc845,0xbf7f90aa,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.8</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002745224603822,-1.9986144720879682,0.9983423406116303,1.998615054458297,-0.9986162807016833,</dec>
-    <hex>0x3f8008ff,0xbfffd299,0x3f7f935d,0x3fffd29e,0xbf7fa551,</hex>
-  </filter>
-  <filter name="PEQ_1_7" addr="8310">
-    <freq>26.0</freq>
-    <q>1.0</q>
-    <boost>0.9</boost>
+    <freq>39.0</freq>
+    <q>5.0</q>
+    <boost>-0.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000881299499713,-1.9983826325758254,0.9982973960569306,1.9983826325758254,-0.9983855260069019,</dec>
-    <hex>0x3f8002e3,0xbfffcb01,0x3f7f906b,0x3fffcb01,0xbf7f9632,</hex>
+    <dec>0.9999823688223377,-1.9994651772177696,0.9994893221518318,1.9994651772177696,-0.9994716909741697,</dec>
+    <hex>0x3f7ffed8,0xbfffee7a,0x3f7fde88,0x3fffee7a,0xbf7fdd60,</hex>
   </filter>
-  <filter name="PEQ_1_8" addr="8315">
-    <freq>60.0</freq>
+  <filter name="PEQ_1_7" addr="8310">
+    <freq>68.0</freq>
     <q>1.0</q>
     <boost>0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000451244479436,-1.99611010016764,0.9960803670818985,1.99611010016764,-0.996125491529842,</dec>
-    <hex>0x3f80017b,0xbfff8089,0x3f7eff1f,0x3fff8089,0xbf7f0215,</hex>
+    <dec>1.0000511277973576,-1.9955902632987061,0.995558899738713,1.9955902632987061,-0.9956100275360705,</dec>
+    <hex>0x3f8001ad,0xbfff6f80,0x3f7edcf3,0x3fff6f80,0xbf7ee04c,</hex>
+  </filter>
+  <filter name="PEQ_1_8" addr="8315">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>1000</freq>
@@ -892,76 +892,76 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>11.0</freq>
-    <q>1.1</q>
-    <boost>5.1</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000096469009738,-1.999434475640129,0.9993387016225976,1.9994346299616692,-0.9994350163107953,</dec>
-    <hex>0x3f800329,0xbfffed78,0x3f7fd4a9,0x3fffed79,0xbf7fdaf9,</hex>
+    <dec>1.0001057206478186,-1.9990816664192994,0.9989769782334317,1.9990818415798517,-0.9990825237206977,</dec>
+    <hex>0x3f800377,0xbfffe1e8,0x3f7fbcf5,0x3fffe1ea,0xbf7fc3df,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>11.0</freq>
-    <q>1.1</q>
-    <boost>5.1</boost>
+    <freq>14.0</freq>
+    <q>0.9</q>
+    <boost>3.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000096469009738,-1.999434475640129,0.9993387016225976,1.9994346299616692,-0.9994350163107953,</dec>
-    <hex>0x3f800329,0xbfffed78,0x3f7fd4a9,0x3fffed79,0xbf7fdaf9,</hex>
+    <dec>1.0001057206478186,-1.9990816664192994,0.9989769782334317,1.9990818415798517,-0.9990825237206977,</dec>
+    <hex>0x3f800377,0xbfffe1e8,0x3f7fbcf5,0x3fffe1ea,0xbf7fc3df,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>11.0</freq>
-    <q>1.1</q>
-    <boost>5.1</boost>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000096469009738,-1.999434475640129,0.9993387016225976,1.9994346299616692,-0.9994350163107953,</dec>
-    <hex>0x3f800329,0xbfffed78,0x3f7fd4a9,0x3fffed79,0xbf7fdaf9,</hex>
+    <dec>1.000283664853671,-1.9982985596467617,0.9980181823302441,1.9982992790563388,-0.9983011277743382,</dec>
+    <hex>0x3f80094c,0xbfffc83f,0x3f7f7e1f,0x3fffc845,0xbf7f90aa,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>19.0</freq>
-    <q>2.0</q>
-    <boost>1.1</boost>
-    <type>PK</type>
+    <freq>24.0</freq>
+    <q>0.8</q>
+    <boost>5.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0000393861908081,-1.9994150016627974,0.9993771614300321,1.9994150016627974,-0.9994165476208403,</dec>
-    <hex>0x3f80014a,0xbfffecd5,0x3f7fd72f,0x3fffecd5,0xbf7fd9c3,</hex>
+    <dec>1.000283664853671,-1.9982985596467617,0.9980181823302441,1.9982992790563388,-0.9983011277743382,</dec>
+    <hex>0x3f80094c,0xbfffc83f,0x3f7f7e1f,0x3fffc845,0xbf7f90aa,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
+    <freq>24.0</freq>
     <q>0.8</q>
-    <boost>5.8</boost>
+    <boost>5.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002745224603822,-1.9986144720879682,0.9983423406116303,1.998615054458297,-0.9986162807016833,</dec>
-    <hex>0x3f8008ff,0xbfffd299,0x3f7f935d,0x3fffd29e,0xbf7fa551,</hex>
+    <dec>1.000283664853671,-1.9982985596467617,0.9980181823302441,1.9982992790563388,-0.9983011277743382,</dec>
+    <hex>0x3f80094c,0xbfffc83f,0x3f7f7e1f,0x3fffc845,0xbf7f90aa,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>20.0</freq>
-    <q>0.8</q>
-    <boost>5.8</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002745224603822,-1.9986144720879682,0.9983423406116303,1.998615054458297,-0.9986162807016833,</dec>
-    <hex>0x3f8008ff,0xbfffd299,0x3f7f935d,0x3fffd29e,0xbf7fa551,</hex>
-  </filter>
-  <filter name="PEQ_2_7" addr="8360">
-    <freq>26.0</freq>
-    <q>1.0</q>
-    <boost>0.9</boost>
+    <freq>39.0</freq>
+    <q>5.0</q>
+    <boost>-0.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000881299499713,-1.9983826325758254,0.9982973960569306,1.9983826325758254,-0.9983855260069019,</dec>
-    <hex>0x3f8002e3,0xbfffcb01,0x3f7f906b,0x3fffcb01,0xbf7f9632,</hex>
+    <dec>0.9999823688223377,-1.9994651772177696,0.9994893221518318,1.9994651772177696,-0.9994716909741697,</dec>
+    <hex>0x3f7ffed8,0xbfffee7a,0x3f7fde88,0x3fffee7a,0xbf7fdd60,</hex>
   </filter>
-  <filter name="PEQ_2_8" addr="8365">
-    <freq>60.0</freq>
+  <filter name="PEQ_2_7" addr="8360">
+    <freq>68.0</freq>
     <q>1.0</q>
     <boost>0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000451244479436,-1.99611010016764,0.9960803670818985,1.99611010016764,-0.996125491529842,</dec>
-    <hex>0x3f80017b,0xbfff8089,0x3f7eff1f,0x3fff8089,0xbf7f0215,</hex>
+    <dec>1.0000511277973576,-1.9955902632987061,0.995558899738713,1.9955902632987061,-0.9956100275360705,</dec>
+    <hex>0x3f8001ad,0xbfff6f80,0x3f7edcf3,0x3fff6f80,0xbf7ee04c,</hex>
+  </filter>
+  <filter name="PEQ_2_8" addr="8365">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>1000</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Loki</beq_title><beq_alt_title /><beq_sortTitle>loki</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E04-E05)%20peak%20spectrum.png</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E04-E05)%20PvA.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>Loki</beq_title><beq_alt_title /><beq_sortTitle>loki</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E06)%20peak%20spectrum.png</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Loki%20(2023)%20(S02E06)%20PvA.jpg</beq_pvaURL><beq_edition />
 	<beq_season id="341180">
 	   <number>2</number>
 	   <poster>/8vjTn0NGF5vM8BijlJxe6YZCRmU.jpg</poster>
-	   <episodes count="6">4,5</episodes>
+	   <episodes count="6">6</episodes>
 	</beq_season>
-<beq_note>Dialnorm Compensation: E04-E05 +4dB</beq_note><beq_warning /><beq_gain>+2.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Disney+</beq_source><beq_overview>After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517</beq_avs><beq_theMovieDB>84958</beq_theMovieDB><beq_poster>/voHUmluYmKyleFkTu3lOXQG702u.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_note /><beq_warning /><beq_gain>+2.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Disney+</beq_source><beq_overview>After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62866517</beq_avs><beq_theMovieDB>84958</beq_theMovieDB><beq_poster>/voHUmluYmKyleFkTu3lOXQG702u.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
