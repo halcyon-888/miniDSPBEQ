@@ -822,47 +822,47 @@
   <filter name="PEQ_1_3" addr="8290">
     <freq>25.0</freq>
     <q>0.8</q>
-    <boost>-4.6</boost>
+    <boost>-3.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9997283708464243,-1.9976651073741565,0.9979387885893306,1.997664390954664,-0.9976678758552477,</dec>
-    <hex>0x3f7fee33,0xbfffb37e,0x3f7f78eb,0x3fffb377,0xbf7f6729,</hex>
+    <dec>0.9997698900246089,-1.9977115972766653,0.9979438437403088,1.9977109918481637,-0.9977143391934193,</dec>
+    <hex>0x3f7ff0eb,0xbfffb503,0x3f7f793f,0x3fffb4fe,0xbf7f6a35,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>25.0</freq>
     <q>0.8</q>
-    <boost>-4.6</boost>
+    <boost>-3.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9997283708464243,-1.9976651073741565,0.9979387885893306,1.997664390954664,-0.9976678758552477,</dec>
-    <hex>0x3f7fee33,0xbfffb37e,0x3f7f78eb,0x3fffb377,0xbf7f6729,</hex>
+    <dec>0.9997698900246089,-1.9977115972766653,0.9979438437403088,1.9977109918481637,-0.9977143391934193,</dec>
+    <hex>0x3f7ff0eb,0xbfffb503,0x3f7f793f,0x3fffb4fe,0xbf7f6a35,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>47.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005557326154952,-1.9966659094577288,0.9961227745186474,1.9966686661989115,-0.9966757503929604,</dec>
-    <hex>0x3f801236,0xbfff92c0,0x3f7f01e7,0x3fff92d7,0xbf7f2624,</hex>
+    <dec>1.0004886474988297,-1.9966081909142988,0.996131713058735,1.9966106092683276,-0.9966179422035362,</dec>
+    <hex>0x3f801003,0xbfff90db,0x3f7f027d,0x3fff90f0,0xbf7f225a,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>47.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005557326154952,-1.9966659094577288,0.9961227745186474,1.9966686661989115,-0.9966757503929604,</dec>
-    <hex>0x3f801236,0xbfff92c0,0x3f7f01e7,0x3fff92d7,0xbf7f2624,</hex>
+    <dec>1.0004886474988297,-1.9966081909142988,0.996131713058735,1.9966106092683276,-0.9966179422035362,</dec>
+    <hex>0x3f801003,0xbfff90db,0x3f7f027d,0x3fff90f0,0xbf7f225a,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>47.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005557326154952,-1.9966659094577288,0.9961227745186474,1.9966686661989115,-0.9966757503929604,</dec>
-    <hex>0x3f801236,0xbfff92c0,0x3f7f01e7,0x3fff92d7,0xbf7f2624,</hex>
+    <dec>1.0004886474988297,-1.9966081909142988,0.996131713058735,1.9966106092683276,-0.9966179422035362,</dec>
+    <hex>0x3f801003,0xbfff90db,0x3f7f027d,0x3fff90f0,0xbf7f225a,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>73.0</freq>
@@ -912,47 +912,47 @@
   <filter name="PEQ_2_3" addr="8340">
     <freq>25.0</freq>
     <q>0.8</q>
-    <boost>-4.6</boost>
+    <boost>-3.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9997283708464243,-1.9976651073741565,0.9979387885893306,1.997664390954664,-0.9976678758552477,</dec>
-    <hex>0x3f7fee33,0xbfffb37e,0x3f7f78eb,0x3fffb377,0xbf7f6729,</hex>
+    <dec>0.9997698900246089,-1.9977115972766653,0.9979438437403088,1.9977109918481637,-0.9977143391934193,</dec>
+    <hex>0x3f7ff0eb,0xbfffb503,0x3f7f793f,0x3fffb4fe,0xbf7f6a35,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>25.0</freq>
     <q>0.8</q>
-    <boost>-4.6</boost>
+    <boost>-3.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9997283708464243,-1.9976651073741565,0.9979387885893306,1.997664390954664,-0.9976678758552477,</dec>
-    <hex>0x3f7fee33,0xbfffb37e,0x3f7f78eb,0x3fffb377,0xbf7f6729,</hex>
+    <dec>0.9997698900246089,-1.9977115972766653,0.9979438437403088,1.9977109918481637,-0.9977143391934193,</dec>
+    <hex>0x3f7ff0eb,0xbfffb503,0x3f7f793f,0x3fffb4fe,0xbf7f6a35,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>47.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005557326154952,-1.9966659094577288,0.9961227745186474,1.9966686661989115,-0.9966757503929604,</dec>
-    <hex>0x3f801236,0xbfff92c0,0x3f7f01e7,0x3fff92d7,0xbf7f2624,</hex>
+    <dec>1.0004886474988297,-1.9966081909142988,0.996131713058735,1.9966106092683276,-0.9966179422035362,</dec>
+    <hex>0x3f801003,0xbfff90db,0x3f7f027d,0x3fff90f0,0xbf7f225a,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>47.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005557326154952,-1.9966659094577288,0.9961227745186474,1.9966686661989115,-0.9966757503929604,</dec>
-    <hex>0x3f801236,0xbfff92c0,0x3f7f01e7,0x3fff92d7,0xbf7f2624,</hex>
+    <dec>1.0004886474988297,-1.9966081909142988,0.996131713058735,1.9966106092683276,-0.9966179422035362,</dec>
+    <hex>0x3f801003,0xbfff90db,0x3f7f027d,0x3fff90f0,0xbf7f225a,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>47.0</freq>
     <q>0.8</q>
-    <boost>5.0</boost>
+    <boost>4.4</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0005557326154952,-1.9966659094577288,0.9961227745186474,1.9966686661989115,-0.9966757503929604,</dec>
-    <hex>0x3f801236,0xbfff92c0,0x3f7f01e7,0x3fff92d7,0xbf7f2624,</hex>
+    <dec>1.0004886474988297,-1.9966081909142988,0.996131713058735,1.9966106092683276,-0.9966179422035362,</dec>
+    <hex>0x3f801003,0xbfff90db,0x3f7f027d,0x3fff90f0,0xbf7f225a,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>73.0</freq>
@@ -1414,10 +1414,10 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Invincible</beq_title><beq_alt_title /><beq_sortTitle>invincible</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://i.imgur.com/nE1CoOW.png</beq_spectrumURL><beq_pvaURL>https://i.imgur.com/RfOm1s0.jpg</beq_pvaURL><beq_edition />
+<beq_metadata><beq_title>Invincible</beq_title><beq_alt_title /><beq_sortTitle>invincible</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Invincible%20(2023)%20(S02E05-E08)%20peak%20spectrum.png</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/halcyon-888/beq-reports/main/Invincible%20(2023)%20(S02E05-E08)%20PvA.jpg</beq_pvaURL><beq_edition />
 	<beq_season id="325266">
 	   <number>2</number>
 	   <poster>/lxVS24ZhG3WQf3IMbkFIg6olT6A.jpg</poster>
-	   <episodes count="8">1,2,4</episodes>
+	   <episodes count="8">5,6,7,8</episodes>
 	</beq_season>
-<beq_note>Dialnorm Compensation E01: +6dB, E02 +7dB, E04 +7dB</beq_note><beq_warning /><beq_gain>+3.0 gain</beq_gain><beq_language>English</beq_language><beq_source>Amazon</beq_source><beq_overview /><beq_rating /><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62925171</beq_avs><beq_theMovieDB /><beq_poster /><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres /></beq_metadata></setting>
+<beq_note>Dialnorm Compensation: E05 0dB, E06 +7dB, E07 0dB, E08: +6dB</beq_note><beq_warning /><beq_gain>+2.5 gain</beq_gain><beq_language>English</beq_language><beq_source>Amazon</beq_source><beq_overview>Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>halcyon888</beq_author><beq_avs>https://www.avsforum.com/threads/bass-eq-for-filtered-movies.2995212/post-62925171</beq_avs><beq_theMovieDB>95557</beq_theMovieDB><beq_poster>/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
